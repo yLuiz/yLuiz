@@ -1,6 +1,10 @@
         👨🏼‍💻 Welcome to my profile 👨🏼‍💻
 
- 📚 Student | JavaScript | ReactJS | TypeScript |NodeJS 📚
+ 📚 Student | JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+           | ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+           | TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+           | NodeJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
+           | 📚
  
  function apresentation(user) {
  <br>
