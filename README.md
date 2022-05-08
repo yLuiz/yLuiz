@@ -1,6 +1,6 @@
         👨🏼‍💻 Welcome to my profile 👨🏼‍💻
 
- 📚 Student | JavaScript | ReactJS | NodeJS 📚
+ 📚 Student | JavaScript | ReactJS | TypeScript |NodeJS 📚
  
  function apresentation(user) {
  <br>
