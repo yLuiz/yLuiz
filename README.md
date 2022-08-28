@@ -13,23 +13,15 @@
  - Além da faculdade, eu sempre estou estudando por conta própria sobre com cursos na Udemy e plataformas de educação. Tenho experiência com tecnologias relacionadas ao desenvolvimento web, como por exemplo: 
  <ul>
 
-       <br>JavaScript<br>
-
-       TypeScript<br>
-
-       ReactJS<br>
-
-       Angular<br>
-
-       NodeJS<br>
-
-       Consumo e Desenvolvimento de API's<br>
-
-       Nestjs<br>
-
-       CSS<br>
-
-       e MySQL.<br>
+       JavaScript
+       TypeScript
+       ReactJS
+       Angular
+       NodeJS
+       Consumo e Desenvolvimento de API's
+       Nestjs
+       CSS
+       e MySQL.
 
   </ul>
  - Aos poucos estou construindo meu repositório para em breve melhorar meu portifólio!
