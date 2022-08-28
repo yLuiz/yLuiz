@@ -13,7 +13,7 @@
  - Além da faculdade, eu sempre estou estudando por conta própria sobre com cursos na Udemy e plataformas de educação. 
  <h2>Tecnológias e Experiência:</h2>
  
- <ul>
+<ul>
        JavaScript
        TypeScript
        ReactJS
@@ -23,8 +23,7 @@
        Nestjs
        CSS
        e MySQL.
-
-  </ul>
+</ul>
   
  - Aos poucos estou construindo meu repositório para em breve melhorar meu portifólio!
 <br>
