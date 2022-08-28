@@ -12,15 +12,15 @@
  - Olá, me chamo Luiz e sou estudante de análise e desenvolvimento de sistemas. Desde o ensino médio tenho um grande interesse pela área de tecnologia, principalmente na parte de programação, amo entender como as coisas funcionam por debaixo dos panos, isso sempre me atraiu muito. 
  - Além da faculdade, eu sempre estou estudando por conta própria sobre com cursos na Udemy e plataformas de educação. Tenho experiência com tecnologias relacionadas ao desenvolvimento web, como por exemplo: 
  <ul>
-       -JavaScript
-       -TypeScript
-       -ReactJS
-       -Angular
-       -NodeJS
-       -Consumo e Desenvolvimento de API's
-       -Nestjs
-       -CSS
-       -e MySQL.
+       <br>JavaScript<br>
+       TypeScript<br>
+       ReactJS<br>
+       Angular<br>
+       NodeJS<br>
+       Consumo e Desenvolvimento de API's<br>
+       Nestjs<br>
+       CSS<br>
+       e MySQL.<br>
   </ul>
  - Aos poucos estou construindo meu repositório para em breve melhorar meu portifólio!
 <br>
