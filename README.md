@@ -14,15 +14,15 @@
  <h2>Tecnológias e Experiência:</h2>
  
 <ul>
-       JavaScript
-       TypeScript
-       ReactJS
-       Angular
-       NodeJS
-       Consumo e Desenvolvimento de API's
-       Nestjs
-       CSS
-       e MySQL.
+       JavaScript<br>
+       TypeScript<br>
+       ReactJS<br>
+       Angular<br>
+       NodeJS<br>
+       Consumo e Desenvolvimento de API's<br>
+       Nestjs<br>
+       CSS<br>
+       e MySQL.<br>
 </ul>
   
  - Aos poucos estou construindo meu repositório para em breve melhorar meu portifólio!
