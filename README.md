@@ -7,7 +7,7 @@
            | NodeJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="15" height="15" /> 
            | 📚
 
- <h1>📌APRESENTAÇÃO📌</h1>
+ <h1 width="20">📌APRESENTAÇÃO📌</h1>
  <br>
  - Olá, me chamo Luiz e sou estudante de análise e desenvolvimento de sistemas. Desde o ensino médio tenho um grande interesse pela área de tecnologia, principalmente na parte de programação, amo entender como as coisas funcionam por debaixo dos panos, isso sempre me atraiu muito. 
  - Além da faculdade, eu sempre estou estudando por conta própria sobre com cursos na Udemy e plataformas de educação. 
