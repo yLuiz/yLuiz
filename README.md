@@ -9,8 +9,7 @@
 
  <h2 style="font-size: 18px">📌APRESENTAÇÃO📌</h2>
  <br>
- - Olá, me chamo Luiz e sou estudante de análise e desenvolvimento de sistemas. Desde o ensino médio tenho um grande interesse pela área de tecnologia, principalmente na parte de programação, amo entender como as coisas funcionam por debaixo dos panos, isso sempre me atraiu muito. 
- - Além da faculdade, eu sempre estou estudando por conta própria sobre com cursos na Udemy e plataformas de educação. 
+ - Sou Desenvolvedor FullStack e graduando de análise e desenvolvimento de sistemas. Gosto de desenvolver projetos pessoais, e possuo experiência em projetos acadêmicos e em estágio. Durante minhas experiências utilizei diversas tecnologias como TypeScript, Angular, React, Express, Nestjs, MySQL, MongoDB e entre outras. Comecei a estudar programação por conta própria em 2020 e ingressei na faculdade em 2021, desde então busco praticar e aperfeiçoar meus conhecimentos em todas as tecnologias já citadas. E como um desenvolvedor, sei que devo estar preparado e me adaptar a novas tecnologias, e por isso estou sempre aberto a ideias.
  <h3>Tecnológias e Experiência:</h3>
  
 <ul>
