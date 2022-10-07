@@ -1,8 +1,6 @@
 <h1 align="center">👨🏼‍💻 Welcome to my profile 👨🏼‍💻</h1>
 <br>
-<br>
  <h2 align="center" style="font-size: 18px">📌APRESENTAÇÃO📌</h2>
-<br>
 <p align="center"> 📚 | JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15" height="15"/>
            | ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" height="18" /> 
            | Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="18" height="18" />
