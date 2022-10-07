@@ -1,11 +1,12 @@
         👨🏼‍💻 Welcome to my profile 👨🏼‍💻
 
- 📚 Student | JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15" height="15"/>
+<p align="center"> 📚 Student | JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15" height="15"/>
            | ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="15" height="15" /> 
            | Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="15" height="15" />
            | TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="15" height="15" />
            | NodeJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="15" height="15" /> 
            | 📚
+</p>
 
  <h2 style="font-size: 18px">📌APRESENTAÇÃO📌</h2>
  <br>
