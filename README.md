@@ -21,7 +21,8 @@
        • API's<br>
        • Nestjs<br>
        • CSS<br>
-       • MySQL.<br>
+       • MySQL<br>
+       • MongoDB.<br>
 </ul>
   
  - Aos poucos estou construindo meu repositório para em breve melhorar meu portifólio!
