@@ -18,7 +18,7 @@
        • ReactJS<br>
        • Angular<br>
        • NodeJS<br>
-       • Consumo e Desenvolvimento de API's<br>
+       • API's<br>
        • Nestjs<br>
        • CSS<br>
        • MySQL.<br>
