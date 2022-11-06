@@ -1,14 +1,12 @@
 <h1 align="center">👨🏼‍💻 Welcome to my profile 👨🏼‍💻</h1>
  <h2 align="center" style="font-size: 18px">📌APRESENTAÇÃO📌</h2>
 <p align="center"> 
-         📚
-           | <p style="background-color: yellow; boder-radius: 6px">JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15" height="15"/></p>
+         📚| JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15" height="15"/></p>
            | ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" height="18" /> 
            | Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="18" height="18" />
            | TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" height="18" />
            | NodeJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18" height="18" /> 
-           |
-         📚
+           |📚
 </p>
 <p justify="center">
  - Sou Desenvolvedor FullStack e graduando de análise e desenvolvimento de sistemas. Gosto de desenvolver projetos pessoais, e possuo experiência em projetos acadêmicos e em estágio. Durante minhas experiências utilizei diversas tecnologias como TypeScript, Angular, React, Express, Nestjs, MySQL, MongoDB e entre outras. Comecei a estudar programação por conta própria em 2020 e ingressei na faculdade em 2021, desde então busco praticar e aperfeiçoar meus conhecimentos em todas as tecnologias já citadas. E como um desenvolvedor, sei que devo estar preparado e me adaptar a novas tecnologias, e por isso estou sempre aberto a ideias.
