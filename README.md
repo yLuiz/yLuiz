@@ -14,17 +14,17 @@
  <h3>Tecnológias e Experiência:</h3>
  
 <ul>
-       • JavaScript<br>
-       • TypeScript<br>
-       • ReactJS<br>
-       • Angular<br>
-       • NodeJS<br> 
-       • API's<br>
-       • Nestjs<br>
-       • CSS<br>
-       • MySQL<br>
-       • MongoDB.<br>
-       <img width="80px" src="./assets/mygif.gif"/>
+       > • JavaScript<br>
+       > • TypeScript<br>
+       > • ReactJS<br>
+       > • Angular<br>
+       > • NodeJS<br> 
+       > • API's<br>
+       > • Nestjs<br>
+       > • CSS<br>
+       > • MySQL<br>
+       > • MongoDB.<br>
+       <img src="./assets/mygif.gif"/>
 </ul>
   
  - Aos poucos estou construindo meu repositório para em breve melhorar meu portifólio!
