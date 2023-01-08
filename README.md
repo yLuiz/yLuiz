@@ -16,13 +16,13 @@
 <ul>
        • JavaScript <br>
        • TypeScript<br>
-       • ReactJSㅤ<br>ㅤㅤ
+       • ReactJS<br>
        • Angular<br>
-       • NodeJSㅤ<br>ㅤㅤ 
+       • NodeJS<br> 
        • API's<br>
-       • Nestjs <br> 
+       • Nestjs<br>
        • CSS<br>
-       • MySQL <br>
+       • MySQL<br>
        • MongoDB.<br>
 </ul>
   
