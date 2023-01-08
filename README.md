@@ -14,7 +14,7 @@
  <h3>Tecnológias e Experiência:</h3>
  
 <ul>
-       • JavaScript <br>
+       • JavaScript<br>
        • TypeScript<br>
        • ReactJS<br>
        • Angular<br>
