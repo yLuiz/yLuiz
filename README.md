@@ -14,15 +14,15 @@
  <h3>Tecnológias e Experiência:</h3>
  
 <ul>
-       • JavaScript
+       • JavaScript <br>
        • TypeScript<br>
-       • ReactJSㅤㅤㅤ
+       • ReactJSㅤ<br>ㅤㅤ
        • Angular<br>
-       • NodeJSㅤㅤㅤ 
+       • NodeJSㅤ<br>ㅤㅤ 
        • API's<br>
-       • Nestjsㅤㅤㅤ 
+       • Nestjs <br> 
        • CSS<br>
-       • MySQLㅤㅤㅤㅤ
+       • MySQL <br>
        • MongoDB.<br>
 </ul>
   
