@@ -24,6 +24,7 @@
        • CSS<br>
        • MySQL<br>
        • MongoDB.<br>
+       <img src="./assets/mygif.gif"/>
 </ul>
   
  - Aos poucos estou construindo meu repositório para em breve melhorar meu portifólio!
