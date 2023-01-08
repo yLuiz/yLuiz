@@ -14,11 +14,16 @@
  <h3>Tecnológias e Experiência:</h3>
  
 <ul>
-       • JavaScriptㅤ • TypeScript<br>
-       • ReactJSㅤㅤㅤ• Angular<br>
-       • NodeJSㅤㅤㅤ • API's<br>
-       • Nestjsㅤㅤㅤ • CSS<br>
-       • MySQLㅤㅤㅤㅤ• MongoDB.<br>
+       • JavaScript
+       • TypeScript<br>
+       • ReactJSㅤㅤㅤ
+       • Angular<br>
+       • NodeJSㅤㅤㅤ 
+       • API's<br>
+       • Nestjsㅤㅤㅤ 
+       • CSS<br>
+       • MySQLㅤㅤㅤㅤ
+       • MongoDB.<br>
 </ul>
   
  - Aos poucos estou construindo meu repositório para em breve melhorar meu portifólio!
