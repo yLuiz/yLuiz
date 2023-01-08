@@ -14,8 +14,8 @@
  <h3>Tecnológias e Experiência:</h3>
  
 <ul>
-       • JavaScript       • TypeScript<br>
-       • ReactJS          • Angular<br>
+       • JavaScript \t       • TypeScript<br>
+       • ReactJS    \t      • Angular<br>
        • NodeJS           • API's<br>
        • Nestjs           • CSS<br>
        • MySQL            • MongoDB.<br>
