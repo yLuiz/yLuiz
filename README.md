@@ -15,7 +15,7 @@
  
 <ul>
        • JavaScriptㅤㅤㅤㅤ• TypeScript<br>
-       • ReactJS ㅤㅤㅤㅤㅤ• Angular<br>
+       • ReactJS ㅤㅤㅤㅤ • Angular<br>
        • NodeJSㅤㅤㅤㅤㅤ• API's<br>
        • Nestjsㅤㅤㅤㅤㅤㅤ• CSS<br>
        • MySQLㅤㅤㅤㅤㅤㅤ • MongoDB.<br>
