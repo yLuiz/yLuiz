@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Luiz Victor Andrade</h1>
 
-- 🔭 I’m currently working with Typescript, Node JS, Angular, Docker and MySQL
+- 🔭 I’m currently working with Typescript, Node JS, Angular, Docker and Postgres
 
 - 🌱 I’m currently learning **Tests with Jest**
 
