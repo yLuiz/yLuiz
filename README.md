@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with Typescript, Node JS, Angular, Docker and Postgres
 
-- 🌱 I’m currently learning **Tests with Jest**
+- 🌱 I’m currently learning **Tests with Jest, C# with ASP .NET, Microservices with Kafka**
 
 - 👯 I’m looking to collaborate on <pending ideas\>
 
