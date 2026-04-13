@@ -1,11 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Luiz Victor Andrade</h1>
 
-- 🔭 I’m currently working with Typescript, Node JS, Angular, Docker and SQL
+- 🔭 I’m currently working with Typescript, Node JS, Angular, Docker, SQL, Tests with Jest, C# with ASP .NET, Microservices with RabbitMQ
 
-- 🌱 I’m currently learning **Tests with Jest, C# with ASP .NET, Microservices with Kafka**
-
-- 👯 I’m looking to collaborate on <pending ideas\>
+- 🌱 I’m currently learning **Distributed Systems**
 
 - 📫 How to reach me **luizvictor1231@gmail.com**
 
